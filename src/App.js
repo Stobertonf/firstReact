@@ -25,8 +25,14 @@ export default App;
 
 const style = StyleSheet.create({
     container: {
-        backgroundColor:'#010409',
+        //Column
         flex: 1, //Expande para a tela inteira
+        alignItems: 'center',
+        justifyContent: 'center',
+        backgroundColor:'#010409',
+    },
+    content:{
+        justifyContent: 'center',
     },
     avatar: {
         width:50,

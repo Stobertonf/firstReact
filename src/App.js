@@ -26,6 +26,13 @@ const App = () => {
                <Text  acessibilityLabel="Nickname: stobertof" style="{[style.defaultText, style.name]}">Stoberton Francisco</Text>
                <Text  acessibilityLabel="Foto na sala:" style="{[style.defaultText, style.nickname]}">Stobertonf</Text>
                <Text  acessibilityLabel="Mobile Developer Flutter:" style="{[tyle.defaultText, style.description]}">Mobile Developer Flutter</Text>
+               <Pressable onPress={()=> console.log('github')}>
+                <view style={style.button}>
+                    <Text style={[style.defaultText, style.textButton]}>
+                        Open In Github
+                        </Text>
+                </view>
+               </Pressable>
            </View>
         </View>
     </SafeAreaView>
@@ -68,6 +75,16 @@ const style = StyleSheet.create({
    description: {
        fontSize:16,
        fontWeight:'bold',
-   }
+   },
+   button: {
+    padding: 20,  
+    marginTop: 20,
+    borderRadius: 10,
+    color: colorDarkFontGithub,
+   },
+   textButton: {
+    fontSize:16,
+    fontWeight:'bold',
+},
    
 });

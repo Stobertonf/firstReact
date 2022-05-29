@@ -23,9 +23,9 @@ const App = () => {
                style={style.avatar} 
                source={{uri:imageProfileGithub}} 
                />
-               <Text style="{[style.defaultText, style.name]}">Stoberton Francisco</Text>
-               <Text style="{[style.defaultText, style.nickname]}">Stobertonf</Text>
-               <Text style="{[tyle.defaultText, style.description]}">Mobile Developer Flutter</Text>
+               <Text  acessibilityLabel="Nickname: stobertof" style="{[style.defaultText, style.name]}">Stoberton Francisco</Text>
+               <Text  acessibilityLabel="Foto na sala:" style="{[style.defaultText, style.nickname]}">Stobertonf</Text>
+               <Text  acessibilityLabel="Mobile Developer Flutter:" style="{[tyle.defaultText, style.description]}">Mobile Developer Flutter</Text>
            </View>
         </View>
     </SafeAreaView>
@@ -49,16 +49,16 @@ const style = StyleSheet.create({
     avatar: {
         width:50,
         height:50,
+        borderWidth:2, 
         borderRadius: 100,
         borderColor:'white',
-        borderWidth:2, 
     },
    defaultText: {
        color: colorFontGithub,
    },
    name: {
-       marginTop: 20
        fontSize: 24,
+       marginTop: 20,
        fontWeight:'bold',
    },
    nickname: {

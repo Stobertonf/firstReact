@@ -1,11 +1,14 @@
 import React from 'react';
-import {View, Text} from 'react-dom';
+import {View, Text, StyleSheet, SafeAreaView} from 'react-dom';
 
 const App = () => {
     return (
-    <View style={style.container}>
-        <Text>Hello World</Text>
-    </View>
+    <SafeAreaView>
+        <SafeAreaView backgroundColor={'pink'} barStyle="dark-content" />
+        <View style={style.container}>
+            <Text>Hello World</Text>
+        </View>
+    </SafeAreaView>
     );
 };
 

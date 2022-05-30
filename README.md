@@ -10,7 +10,7 @@
 
 ## Escopo
 
-📚 Neste projeto, eu tive a oportunidade de desenvolver o meu primeiro App utilizando o React Native. Sendo assim, foi criado um tela de Profile com direcionamento para o meu github.
+📚 Neste projeto, eu tive a oportunidade de desenvolver o meu primeiro App utilizando o React Native. Sendo assim, aprendi a criar um tela de Profile com direcionamento para o meu github.
 
 ## Foco
 

@@ -1,0 +1,57 @@
+# firstReact
+
+## Seja bem vindo
+
+👋 Olá, seja bem vindo.
+
+## Curso
+
+💻 Projeto do curso Introdução ao React Native do professor Ismael Moreira na plataforma Dio.me.
+
+## Escopo
+
+📚 Neste projeto, eu tive a oportunidade de desenvolver o meu primeiro App utilizando o React Native. Sendo assim, foi criado um tela de Profile com direcionamento para o meu github.
+
+## Foco
+
+😊 O curso é focado no de um App com React Native.
+
+## Prazo
+
+⚡ Este projeto foi finalizado no dia 24/05/2022, porém, ainda preciso fazer alguns ajustes pois acabaram surgindo alguns "Bugs" (muitos) que terei que estudar para resolver.
+
+## Imagens
+
+Neste momento, não possuo imagens para disponiziliar, mas em breve pretendo inserir.
+
+## Conteúdo
+
+- Conhecendo o React Native
+  - O que é ract-Native?
+  - O que é cross-plataform
+  - Origem do RN
+- Documentação
+  - Componentes
+  - API
+  - Comunidade (Blog)
+- Setup
+  - Intalação do Chocolatey
+  - Node
+  - Java 11 (SDK)
+  - Yarn
+  - Android Studio
+    - Donwload android s
+    - Criar um avd (Android Virtual Device)
+ - Criação do projeto
+    - Uso do React Native CLI
+    - Estrutura de pasta
+ - Projeto Profile
+    - View
+    - Text
+    - SafeAreaView
+    - Image
+    - Flex-Box
+    - Style (Style-Sheet)
+    - Pressable
+    - Linking API
+    - Add código Nativo no AndroidManifest.xml para abrir Link 

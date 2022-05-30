@@ -4,9 +4,9 @@
 
 👋 Olá, seja bem vindo.
 
-## Curso
+## Bootcamp / Curso
 
-💻 Projeto do curso Introdução ao React Native do professor Ismael Moreira na plataforma Dio.me.
+💻 Projeto do Bootcamp Decola Tech 3a edição / Introdução ao React Native do professor Ismael Moreira na plataforma dio.me.
 
 ## Escopo
 

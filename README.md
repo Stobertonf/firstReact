@@ -27,7 +27,7 @@ Neste momento, não possuo imagens, mas em breve pretendo disponiziliar.
 ## Conteúdo
 
 - Conhecendo o React Native
-  - O que é ract-Native?
+  - O que é react-Native?
   - O que é cross-plataform
   - Origem do RN
 - Documentação

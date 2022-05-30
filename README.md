@@ -14,7 +14,7 @@
 
 ## Foco
 
-😊 O curso é focado no de um App com React Native.
+😊 O curso é focado no desenvolvimento de um App com React Native.
 
 ## Prazo
 

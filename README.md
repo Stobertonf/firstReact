@@ -18,7 +18,7 @@
 
 ## Prazo
 
-⚡ Este projeto foi finalizado no dia 24/05/2022, porém, ainda preciso fazer alguns ajustes pois acabaram surgindo alguns "Bugs" (muitos) que terei que estudar para resolver.
+⚡ Este projeto foi finalizado no dia 29/05/2022, porém, ainda preciso fazer alguns ajustes pois acabaram surgindo alguns "Bugs" (muitos) que terei que estudar para resolver.
 
 ## Imagens
 

@@ -4,18 +4,31 @@ import {View,
         StyleSheet, 
         SafeAreaView, 
         StatusBar, 
-        Text} from 'react-dom';
+        Text,
+        Pressable,
+        Linking,
+    } from 'react-dom';
 
 const colorGithub = '#010409';
 const colorFontGithub = '#C9D1D9';
 const colorDarkFontGithub = '#4F565E';
+const urlToMyGithub = 'https://github.com/Stobertonf';
 const imageProfileGithub = 'https://avatars.githubusercontent.com/u/49157502?v=4';
 
 
+
 const App = () => {
+    const handlePressGoToGitHub = async () => {
+    const res = await Linking.canOpenUrl(urlToMyGithub);
+    if(res){
+        await Linking.openUrl(urlToMyGithub);
+    }
+    }
+
+
     return (
     <SafeAreaView>
-        <SafeAreaView backgroundColor={'#010409'} barStyle="light-content" />
+        <SafeAreaView backgroundColor={'#010409'} barStyle="light-content"/>
         <View style={style.container}>
            <View>
                <Image 
@@ -26,7 +39,7 @@ const App = () => {
                <Text  acessibilityLabel="Nickname: stobertof" style="{[style.defaultText, style.name]}">Stoberton Francisco</Text>
                <Text  acessibilityLabel="Foto na sala:" style="{[style.defaultText, style.nickname]}">Stobertonf</Text>
                <Text  acessibilityLabel="Mobile Developer Flutter:" style="{[tyle.defaultText, style.description]}">Mobile Developer Flutter</Text>
-               <Pressable onPress={()=> console.log('github')}>
+               <Pressable onPress={handlePressGoToGitHub}>
                 <view style={style.button}>
                     <Text style={[style.defaultText, style.textButton]}>
                         Open In Github

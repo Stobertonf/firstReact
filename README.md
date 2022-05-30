@@ -22,7 +22,7 @@
 
 ## Imagens
 
-Neste momento, não possuo imagens para disponiziliar, mas em breve pretendo inserir.
+Neste momento, não possuo imagens, mas em breve pretendo disponiziliar.
 
 ## Conteúdo
 

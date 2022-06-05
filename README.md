@@ -24,6 +24,10 @@
 
 😰 Eu ainda estou aprendendo a utilizar o React Native, então, caso você encontre algum erro ou conheça uma forma de melhorar meu App, fique a vontade para me ensinar.
 
+## Objetivo
+
+🤔 Ao fazer este curso e projeto, meu principal objetivo é aprender uma tecnologia nova  para que eu possa aprender a consumir recursos do React Native no Flutter.
+
 ## Imagens
 
 Neste momento, não possuo imagens, mas em breve pretendo disponiziliar.

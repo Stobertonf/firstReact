@@ -20,13 +20,13 @@
 
 ⚡ Este projeto foi finalizado no dia 29/05/2022, porém, ainda preciso fazer alguns ajustes pois acabaram surgindo alguns "Bugs" (muitos) que terei que estudar para resolver.
 
-## Observação
-
-😰 Eu ainda estou aprendendo a utilizar o React Native, então, caso você encontre algum erro ou conheça uma forma de melhorar meu App, fique a vontade para me ensinar.
-
 ## Objetivo
 
 🤔 Ao fazer este curso e projeto, meu principal objetivo é aprender uma tecnologia nova  para que eu possa aprender a consumir recursos do React Native no Flutter.
+
+## Observação
+
+😰 Eu ainda estou aprendendo a utilizar o React Native, então, caso você encontre algum erro ou conheça uma forma de melhorar meu App, fique a vontade para me ensinar.
 
 ## Imagens
 
